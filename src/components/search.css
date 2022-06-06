@@ -1,0 +1,10 @@
+input{
+    margin-top: 50px;
+    width: 24vw;
+    height: 4vh;
+    padding-left: 20px;
+    border: 3px solid black;
+    border-radius: 3px;
+    font-size: .9vw;
+    margin-left: 220px;
+}
